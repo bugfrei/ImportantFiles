@@ -6,7 +6,7 @@ copy ~/.vimrccode ./home
 
 # /Users/carstenschlegel/.config/nvim
 # Komplette NeoVIM Konfiguration
-copy /Users/carstenschlegel/.config/nvim /nvim -Recurse -Force -Container
+copy /Users/carstenschlegel/.config/nvim/* /nvim -Recurse -Force -Container
 
 
 
