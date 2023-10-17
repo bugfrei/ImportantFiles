@@ -8,6 +8,9 @@ copy ~/.vimrccode ./home
 # Komplette NeoVIM Konfiguration
 copy /Users/carstenschlegel/.config/nvim/* ./nvim -Recurse -Force -Container
 
+copy /Users/carstenschlegel/.config/powershell/Microsoft.PowerShell_profile.ps1 .
+
+
 
 
 
